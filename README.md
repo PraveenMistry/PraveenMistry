@@ -1,9 +1,7 @@
-### Hi there 👋
+### 👋 Welcome to my ~~Homepage~~ GitHub Repo 
 
-# 👋 Welcome to my ~~Homepage~~ GitHub Repo 
+<!--![me](https://praveenmistry.github.io/about/img/profile.jpg)-->
 
-![me](https://praveenmistry.github.io/about/img/profile.jpg
-)
 ## Connect Me on Social Media
 [Twitter](https://twitter.com/P_Mistry_) 
 | [Instagram](https://www.instagram.com/pmistry_/)
