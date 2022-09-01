@@ -15,12 +15,17 @@ I am a Full Stack Developer <img src="images/dev.gif" width="30"> from India.
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pmistry_/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/P_Mistry_)
 
-
+---
+\
+\
 
 ## 🐱 Projects on GitHub
 - Smart Price Comparison (scrap best product from flipkart) | [Repo for PR](https://github.com/PraveenMistry/Smart-Price-Comparison)
 - [LeetCode](https://github.com/PraveenMistry/leetCode) 
 - About Me - [praveenmistry.com](https://praveenmistry.github.io/about/) | [Repo ](https://github.com/PraveenMistry/about) (Fix my typo & send me PR)
+
+\
+\
 
 
 ### 🛠 &nbsp;Languages and Tools :
@@ -34,7 +39,7 @@ I am a Full Stack Developer <img src="images/dev.gif" width="30"> from India.
 <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-
+\
 
 <!-- FE -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -43,17 +48,16 @@ I am a Full Stack Developer <img src="images/dev.gif" width="30"> from India.
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-
+\
 
 <!-- DB -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-
+\
 
 
 <!-- Tech Stack -->
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -65,9 +69,11 @@ I am a Full Stack Developer <img src="images/dev.gif" width="30"> from India.
 <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+\
 </p>
 
+\
+\
 
 ### 🔥 &nbsp; My Stats :
 
@@ -79,6 +85,8 @@ I am a Full Stack Developer <img src="images/dev.gif" width="30"> from India.
 
 </p>
 
+\
+\
 
 <!--
 **PraveenMistry/PraveenMistry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
