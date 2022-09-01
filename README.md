@@ -55,7 +55,7 @@ I am a Full Stack Developer <img src="images/dev.gif" width="30"> from India.
 
 
 <!-- Tech Stack -->
-<img src="[https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg)" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" title="Eslint" alt="Eslint" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
@@ -69,7 +69,7 @@ I am a Full Stack Developer <img src="images/dev.gif" width="30"> from India.
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <br>
 </p>
-  <br>
+   
 ### 🔥 &nbsp; My Stats :
 
 <p aligh="left">
