@@ -20,9 +20,10 @@ I am a Full Stack Developer <img src="images/dev.gif" width="30"> from India.
 
 
 ## 🐱 Projects on GitHub
+- About Me - [praveenmistry.com](https://pmistry.netlify.app/) | [Repo ]([https://github.com/PraveenMistry/about](https://github.com/PraveenMistry/Portfolio))
+- Rebootify - [praveenmistry.com]([https://pmistry.netlify.app/](https://github.com/PraveenMistry/Rebootify)) | [Repo ]([https://github.com/PraveenMistry/about](https://github.com/PraveenMistry/Rebootify))
 - Smart Price Comparison (scrap best product from flipkart) | [Repo for PR](https://github.com/PraveenMistry/Smart-Price-Comparison)
 - [LeetCode](https://github.com/PraveenMistry/leetCode) 
-- About Me - [praveenmistry.com](https://praveenmistry.github.io/about/) | [Repo ](https://github.com/PraveenMistry/about) (Fix my typo & send me PR)
   
   <br>
 ### 🛠 &nbsp;Languages and Tools :
