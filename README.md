@@ -21,7 +21,7 @@ I am a Full Stack Developer <img src="images/dev.gif" width="30"> from India.
 
 ## 🐱 Projects on GitHub
 - About Me - [praveenmistry.com](https://pmistry.netlify.app/) | [Repo ]([https://github.com/PraveenMistry/about](https://github.com/PraveenMistry/Portfolio))
-- [Rebootify](https://github.com/PraveenMistry/Rebootify)
+- Rebootify - A 30x lightweight alternative to nodemon! | [Rebootify](https://github.com/PraveenMistry/Rebootify)
 - Smart Price Comparison (scrap best product from flipkart) | [Repo for PR](https://github.com/PraveenMistry/Smart-Price-Comparison)
 - [LeetCode](https://github.com/PraveenMistry/leetCode) 
   
