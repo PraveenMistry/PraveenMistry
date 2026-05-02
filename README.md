@@ -21,10 +21,10 @@ I am a Full Stack Developer <img src="images/dev.gif" width="30"> from India.
 
 ## 🐱 Projects on GitHub
 - [About Me](https://pmistry.netlify.app/) | [Repo ](https://github.com/PraveenMistry/Portfolio)
+- PR Review AI Agent | [Repo](https://github.com/PraveenMistry/pr-agent)
 - Rebootify - A 30x lightweight alternative to nodemon! | [Rebootify](https://github.com/PraveenMistry/Rebootify)
 - Smart Price Comparison (scrap best product from flipkart) | [Repo ](https://github.com/PraveenMistry/Smart-Price-Comparison)
-- [LeetCode](https://github.com/PraveenMistry/leetCode)
-- PR Review AI Agent | [Repo](https://github.com/PraveenMistry/pr-agent)
+
   
   <br>
 ### 🛠 &nbsp;Languages and Tools :
