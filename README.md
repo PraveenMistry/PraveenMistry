@@ -25,7 +25,8 @@ I am a Full Stack Developer <img src="images/dev.gif" width="30"> from India.
 - promise-Cap | [Repo](https://github.com/PraveenMistry/promise-cap), [NPM Package](https://www.npmjs.com/package/promise-cap)
 - Rebootify - A 30x lightweight alternative to nodemon! | [Rebootify](https://github.com/PraveenMistry/Rebootify)
 - Smart Price Comparison (scrap best product from flipkart) | [Repo ](https://github.com/PraveenMistry/Smart-Price-Comparison)
-- ResidencesWeb! | [LeRioResidencesWeb](https://github.com/PraveenMistry/LeRioResidencesWeb)
+- ResidencesWeb! | [LeRioResidencesWeb](https://github.com/PraveenMistry/LeRioResidencesWeb) | [ResidencesWeb](https://lerioresidences.netlify.app/)
+- ai-coding-assistant | [ai-coding-assistant](https://github.com/PraveenMistry/ai-coding-assistant) | [NPM](https://www.npmjs.com/package/ai-code-assistant)
   
   <br>
 ### 🛠 &nbsp;Languages and Tools :
