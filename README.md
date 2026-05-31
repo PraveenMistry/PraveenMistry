@@ -40,12 +40,12 @@ I am an Engineering Lead bridging the gap between highly scalable enterprise arc
 ### 🔥 **My Stats**
 
 <p align="left">
-   <a href="http://www.github.com/PraveenMistry"><img src="https://github-readme-stats.vercel.app/api?username=praveenmistry&show_icons=true&count_private=true&title_color=1f6feb&text_color=ffffff&icon_color=1f6feb&bg_color=1c1917&hide_border=true" width="49%" /></a>
-   <a href="http://www.github.com/PraveenMistry"><img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenmistry&stroke=ffffff&background=1c1917&ring=1f6feb&fire=1f6feb&currStreakNum=ffffff&currStreakLabel=1f6feb&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="49%" /></a>
-</p>
-
-<p align="left">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenmistry&layout=compact&theme=vision-friendly-dark&hide_border=true" width="49%" />
+   <a href="http://www.github.com/PraveenMistry">
+    <img src="https://github-readme-stats.vercel.app/api?username=praveenmistry&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="49%" />
+   </a>
+   <a href="http://www.github.com/PraveenMistry">
+   <img src="https://streak-stats.demolab.com/?user=praveenmistry&theme=tokyonight&hide_border=true" width="49%" />
+   </a>
 </p>
 
 ---
