@@ -29,11 +29,13 @@ I am an Engineering Lead bridging the gap between highly scalable enterprise arc
 ---
 
 ### 🌟 **Featured Open Source & Projects**
+- [AI Engineering RoadMap](https://github.com/PraveenMistry/ai-engineering-roadmap)** - Basic terms, Rag, Agent, Multi Agent AI with Ollama 
 - 🤖 **[PR Review AI Agent](https://github.com/PraveenMistry/pr-agent)** - Automating daily engineering workflows with LLMs.
 - 📦 **[promise-cap](https://github.com/PraveenMistry/promise-cap)** - Zero-dependency async concurrency library.
 - ⚡ **[ai-coding-assistant](https://github.com/PraveenMistry/ai-coding-assistant)** - Terminal-based AI power tools.
 - 🔄 **[Rebootify](https://github.com/PraveenMistry/Rebootify)** - 30x lighter alternative to nodemon.
 - 🛒 **[Smart Price Comparison](https://github.com/PraveenMistry/Smart-Price-Comparison)** - High-performance web scraping & processing.
+
 
 ---
 
